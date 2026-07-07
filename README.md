@@ -1,1 +1,1 @@
-file:///C:/Users/PC/.gemini/antigravity/scratch/mie-academy/index.html
+file:///C:/Users/PC/mie-academy/index.html
